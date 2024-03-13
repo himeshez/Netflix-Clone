@@ -1,14 +1,13 @@
-# Netflix-Clone
-This is the core code from scratch to clone the landing page of Netflix using **HTML, CSS and JavaScript.**
+# Netflix-CloneWelcome to the Netflix Clone repository! This project is a front-end clone of the popular streaming platform, Netflix. It aims to replicate the user interface and basic functionality of Netflix using HTML, CSS, and JavaScript.
 
 ## 📸 Screenshots
-![image](https://user-images.githubusercontent.com/79099734/156505537-8e28ee14-dd20-4299-9eea-984d7068c7fd.png)
-![image](https://user-images.githubusercontent.com/79099734/156505592-42d7e884-e72c-41b8-8efe-856d1aeaf4b1.png)
-![image](https://user-images.githubusercontent.com/79099734/156505619-e344eb2f-9298-4f76-8d59-d0f6a4f108dc.png)
-![image](https://user-images.githubusercontent.com/79099734/156505658-675daf0b-fe7d-4490-8d1c-ab030527ecf5.png)
-![image](https://user-images.githubusercontent.com/79099734/156505698-04ab760c-9ef1-4da2-b921-4c3e65ef0789.png)
-![image](https://user-images.githubusercontent.com/79099734/156505771-6929b1f2-1aed-4da4-bb7a-092404589241.png)
-![image](https://user-images.githubusercontent.com/79099734/156505809-309a6824-5d85-4cc0-9ffd-95d66fb2cf5e.png)
+![image](https://github.com/himeshez/Netflix-Clone/blob/8d064383e65e9c37e1903a5db30a19fa5c06683f/Images/Main%20Page.png)
+![image](https://github.com/himeshez/Netflix-Clone/blob/8d064383e65e9c37e1903a5db30a19fa5c06683f/Images/Screen.png)
+![image](https://github.com/himeshez/Netflix-Clone/blob/8d064383e65e9c37e1903a5db30a19fa5c06683f/Images/Downloads.png)
+![image](https://github.com/himeshez/Netflix-Clone/blob/8d064383e65e9c37e1903a5db30a19fa5c06683f/Images/Watch.png)
+![image](https://github.com/himeshez/Netflix-Clone/blob/8d064383e65e9c37e1903a5db30a19fa5c06683f/Images/Create%20Profiles.png)
+![image](https://github.com/himeshez/Netflix-Clone/blob/8d064383e65e9c37e1903a5db30a19fa5c06683f/Images/Questions.png)
+
 
 
 ## Watch the Live [Demo](https://susmita-dey.github.io/Netflix-Clone/)
