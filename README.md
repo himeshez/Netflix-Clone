@@ -1,4 +1,4 @@
-# Netflix-CloneWelcome to the Netflix Clone repository! This project is a front-end clone of the popular streaming platform, Netflix. It aims to replicate the user interface and basic functionality of Netflix using HTML, CSS, and JavaScript.
+Netflix-CloneWelcome to the Netflix Clone repository! This project is a front-end clone of the popular streaming platform, Netflix. It aims to replicate the user interface and basic functionality of Netflix using <b>HTML, CSS, and JavaScript.</b>
 
 ## 📸 Screenshots
 ![image](https://github.com/himeshez/Netflix-Clone/blob/8d064383e65e9c37e1903a5db30a19fa5c06683f/Images/Main%20Page.png)
